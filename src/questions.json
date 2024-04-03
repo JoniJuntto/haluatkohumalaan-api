@@ -1,0 +1,109 @@
+{
+    "categories": {
+      "History": [
+        {
+          "question": "Who was the first President of the United States?",
+          "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+          "correctIndex": 0
+        },
+        {
+          "question": "In which year did the Titanic sink?",
+          "options": ["1912", "1905", "1898", "1923"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Which civilization is known for building the Pyramids?",
+          "options": ["Egyptian", "Aztec", "Roman", "Greek"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What event began on July 28, 1914, and lasted until November 11, 1918?",
+          "options": ["World War I", "The Great Depression", "World War II", "The Cold War"],
+          "correctIndex": 0
+        }
+      ],
+      "Science": [
+        {
+          "question": "What is the chemical symbol for the element oxygen?",
+          "options": ["O", "Ox", "Om", "Op"],
+          "correctIndex": 0
+        },
+        {
+          "question": "How many planets are in our Solar System?",
+          "options": ["Nine", "Eight", "Seven", "Ten"],
+          "correctIndex": 1
+        },
+        {
+          "question": "What is the hardest natural substance on Earth?",
+          "options": ["Gold", "Iron", "Diamond", "Quartz"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Which gas is most abundant in the Earth's atmosphere?",
+          "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+          "correctIndex": 3
+        }
+      ],
+      "Geography": [
+        {
+          "question": "What is the capital city of Japan?",
+          "options": ["Kyoto", "Osaka", "Tokyo", "Hiroshima"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Which desert is the largest in the world?",
+          "options": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+          "correctIndex": 0
+        }
+      ],
+      "Literature": [
+        {
+          "question": "Who wrote 'Romeo and Juliet'?",
+          "options": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Ernest Hemingway"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Which novel features the character 'Atticus Finch'?",
+          "options": ["Great Expectations", "To Kill a Mockingbird", "The Catcher in the Rye", "1984"],
+          "correctIndex": 1
+        }
+      ],
+      "Pop Culture": [
+        {
+          "question": "Who is known as the 'King of Pop'?",
+          "options": ["Elvis Presley", "Michael Jackson", "Prince", "Justin Bieber"],
+          "correctIndex": 1
+        },
+        {
+          "question": "In which year was the original 'Star Wars' movie released?",
+          "options": ["1977", "1980", "1983", "1970"],
+          "correctIndex": 0
+        }
+      ],
+      "Sports": [
+        {
+          "question": "Which country hosted the 2016 Summer Olympics?",
+          "options": ["China", "Brazil", "Russia", "United Kingdom"],
+          "correctIndex": 1
+        },
+        {
+          "question": "How many players are on a soccer field for one team during a match?",
+          "options": ["11", "10", "12", "9"],
+          "correctIndex": 0
+        }
+      ],
+      "Mythology": [
+        {
+          "question": "Who is the Greek god of the sea?",
+          "options": ["Zeus", "Poseidon", "Ares", "Hades"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Which creature in Greek mythology has the head of a bull on the body of a man?",
+          "options": ["Centaur", "Minotaur", "Chimera", "Cyclops"],
+          "correctIndex": 1
+        }
+      ]
+    }
+  }
+  
